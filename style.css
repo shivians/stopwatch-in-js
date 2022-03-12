@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(80, 88, 102);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#container{
+    color: #d7dfe4;;
+}
+.digit{
+    font-size: 150px;
+     font-weight: bold;
+}
+.txt{
+    font-size: 40px;
+    font-weight: bold;
+     
+}
+#btn-container{
+    text-align: center;
+    margin-top: 40px;
+}
+.btn{
+    padding: 7px 25px;
+    font-size: 15px;
+
+    margin:0px 10px ;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#start{
+    background-color: rgb(36, 206, 36);
+}
+
+#stop{
+    background-color: rgb(72, 72, 216);
+}
+
+#reset{
+    background-color: red;
+    
+}
+
+
